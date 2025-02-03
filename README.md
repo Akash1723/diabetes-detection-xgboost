@@ -7,7 +7,7 @@ This project is designed to predict diabetes using machine learning. The model i
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone  
+git clone https://github.com/Akash1723/diabetes-detection-xgboost.git
 cd model
 pip install -r requirements.txt
 ```
